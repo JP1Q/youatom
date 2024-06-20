@@ -129,6 +129,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pyvenv.cfg
+bin
+etc
+share
+lib64
 
 # Spyder project settings
 .spyderproject
@@ -139,7 +144,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+recorded_audio.mp3
 # mypy
 .mypy_cache/
 .dmypy.json
